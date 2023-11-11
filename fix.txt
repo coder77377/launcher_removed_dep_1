@@ -1,0 +1,9 @@
+The following dependency needs to be added:
+
+```xml
+<dependency>
+	<groupId>net.sf.jopt-simple</groupId
+	<artifactId>jopt-simple</artifactId
+	<version>5.0.4</version
+</dependency>
+```
